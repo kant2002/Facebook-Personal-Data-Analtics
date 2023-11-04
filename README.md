@@ -2,7 +2,7 @@
 This is the Power BI Desktop report, which helps to analyze Facebook personal data.  
 
 **Instructions:**
-1. Download Facbook data following the official instruction: https://www.facebook.com/help/212802592074644 
+1. Download Facbook data (**!format: JSON**) following the official instruction: https://www.facebook.com/help/212802592074644 
 2. Download and install Power BI Desktop (https://powerbi.microsoft.com/ru-ru/desktop/)
 3. Unpuck archive with Facebook data on your PC
 4. Open [Template_DM_Facebook.pbix] in Power BI Desktop
