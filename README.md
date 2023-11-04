@@ -19,10 +19,10 @@ This is the Power BI Desktop report, which helps to analyze Facebook personal da
 ![2023-11-04_14-12-51](https://github.com/StrangeBelk/Facebook-Personal-Data-Analtics/assets/20987906/89980dc1-812a-4822-8865-51c3e7173a22)
 
 What you could analyze:
-- Comments (ready);
-- Reactions (in future);
-- Friendship (in future);
-- Chatting (in future);
+- Comments;
+- Reactions;
+- Friendship;
+- Chatting;
 
 In current version of Comments analyzer, you could investigate data by slicers:
 - by Dynamics of comments;
